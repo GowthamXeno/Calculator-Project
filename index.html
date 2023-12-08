@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="Stylesheet" href = "style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <title>Calculator-Project</title>
+</head>
+<body>
+    <div class="title">
+        <h1>Calculator</h1>
+    </div>
+    <div class="container">
+        <div class="display row">0</div>
+        <div class="row">
+            <button onclick="clearDisplay()" >AC</button>
+            <button onclick="appendCharacter('X²')">X²</button>
+            <button onclick="appendCharacter('%')">%</button>
+            <button onclick="appendCharacter('/')">/</button>
+        </div>
+        <div class="row">
+            <button onclick="appendCharacter('7')">7</button>
+            <button onclick="appendCharacter('8')">8</button>
+            <button onclick="appendCharacter('9')">9</button>
+            <button onclick="appendCharacter('*')">*</button>
+        </div>
+        <div class="row">
+            <button onclick="appendCharacter('6')">6</button>
+            <button onclick="appendCharacter('5')">5</button>
+            <button onclick="appendCharacter('4')">4</button>
+            <button onclick="appendCharacter('-')">-</button>
+        </div>
+        <div class="row">
+            <button onclick="appendCharacter('3')">3</button>
+            <button onclick="appendCharacter('2')">2</button>
+            <button onclick="appendCharacter('1')">1</button>
+            <button onclick="appendCharacter('+')">+</button>
+        </div>
+        <div class="row">
+            <button onclick="appendCharacter('0')">0</button>
+            <button onclick="appendCharacter('.')">.</button>
+            <button onclick="appendCharacter('=')">=</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
