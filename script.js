@@ -14,8 +14,6 @@ function clearDisplay(){
 function appendCharacter(char){ 
     if(currentInput === '0' && char!=='.')
         currentInput = char;
-    // else if(char === '**2')
-    //     currentInput += '²';
     else
         currentInput += char;
     updateDisplay();
