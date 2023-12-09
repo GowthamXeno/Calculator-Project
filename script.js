@@ -12,6 +12,8 @@ function clearDisplay(){
 }
 
 function appendCharacter(char){ 
+    if(currentInput === 'Error')
+        currentInput ='';
     if(currentInput === '0' && char!=='.')
         currentInput = char;
     else
