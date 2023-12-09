@@ -20,7 +20,7 @@ body{
     flex-direction: column;
         width: 300px;
       border: 2px transparent #3498db;
-      padding: 5px;
+      padding: 7px;
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
       backdrop-filter: blur(10px);
@@ -49,16 +49,16 @@ button{
     background-color: #00ccfd;
     color: #fff;
     transition: background-color 0.3s ease;
-    
+     
 }
 .display{
     flex:1;
     display: flex;
     justify-content: flex-end;
-    /* align-items: center; */
     border:1px solid rgb(0, 234, 255);
     padding: 10px;
-    margin:7px;
+    margin:4px;
+    margin-bottom: 10px;
     border-radius: 4px;
     background-color: #00ccfd;
     color:white;
