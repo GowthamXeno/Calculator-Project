@@ -9,9 +9,12 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background: rgb(218,0,255);
-    background-image: linear-gradient(to right top, #0d57bd, #0074d3, #0091e3, #00acf0, #00c7f9, #00cafb, #00ccfd, #00cfff, #00b8ff, #009bff, #2770ff, #a600ff);
+    
     min-height: 100vh;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 
 }
 .container{
@@ -19,12 +22,12 @@ body{
     justify-content: center;
     flex-direction: column;
         width: 300px;
-      border: 2px transparent #3498db;
+      border: 2px transparent #eaff03;
       padding: 7px;
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
       backdrop-filter: blur(10px);
-      background-color: rgba(0, 126, 253, 0.525);
+      background-color: rgba(229, 210, 116, 0.534);
       box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
     
 }
@@ -44,9 +47,9 @@ button{
     cursor: pointer;
     margin:3px;
     font-size: 20px;
-    border: #4CF9F9;
+    border: #f7480e;
     border-radius: 5px;
-    background-color: #00ccfd;
+    background-color: #ffbb46;
     color: #fff;
     transition: background-color 0.3s ease;
      
@@ -55,15 +58,15 @@ button{
     flex:1;
     display: flex;
     justify-content: flex-end;
-    border:1px solid rgb(0, 234, 255);
+    border:1px solid rgb(255, 208, 0);
     padding: 10px;
     margin:4px;
     margin-bottom: 10px;
     border-radius: 4px;
-    background-color: #00ccfd;
+    background-color: #ffae00;
     color:white;
     font-size: 25px;
 }
 button:hover {
-    background-color: #0f88eb;
+    background-color: #f8e300;
 }
