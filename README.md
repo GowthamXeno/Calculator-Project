@@ -21,7 +21,7 @@ Experience the interactive Calculator in action by [viewing the live demo]( http
 <h2>Project Screenshots:</h2>
 
 
-<img src="https://i.imgur.com/BJABBjI.jpg" alt="project-screenshot" width="700" height="400/">
+<img src="https://i.imgur.com/BJABBjI.jpg" alt="project-screenshot" height="400/">
 
 
 ## 🪡Objective:
@@ -39,7 +39,7 @@ Build a stylish and functional calculator for quick and error-free calculations.
 
 ## 🪡How to Use
 
-1. Clone the repository: `git clone https://github.com/GowthamXeno/registration-form.git`
+1. Clone the repository: `git clone https://github.com/GowthamXeno/Calculator-Project.git`
 2. Open `index.html` in your web browser.
 
 
