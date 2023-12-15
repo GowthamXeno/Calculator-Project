@@ -5,7 +5,7 @@
 <p id="description">A Stylish calculator using HTML, CSS, and JavaScript. The modern design ensures a responsive and intuitive user interface. Real-time feedback on the dynamic display enhances the user experience. The calculator supports a range of arithmetic operations and gracefully manages errors. A sleek solution for efficient and user-friendly calculations.</p>
 
 ## 🪡Demo
-Experience the interactive Calculator in action by [viewing the live demo]( https://gowthamxeno.github.io/Calculator-Project/).
+Experience the interactive Calculator in action by [viewing the live demo]( https://gowthamxeno.github.io/Calculator-Project/){:target="_blank"}.
 
 
 ## 🪡Technologies Used
@@ -45,8 +45,8 @@ Build a stylish and functional calculator for quick and error-free calculations.
 
 ## 🪡Acknowledgments
 
-- Icons from [FontAwesome](https://fontawesome.com/).
-- Fonts from [Google Fonts](https://fonts.google.com/).
+- Icons from [FontAwesome](https://fontawesome.com/){:target="_blank"}.
+- Fonts from [Google Fonts](https://fonts.google.com/){:target="_blank"}.
 
 ---
 
@@ -56,5 +56,5 @@ Build a stylish and functional calculator for quick and error-free calculations.
 Have a question or feedback? Feel free to reach out!
 
 <!-- Instagram Image and Link on the Same Line -->
-<img src="https://i.imgur.com/Jr9E7c9.png" alt="Your Instagram Image" height="20" style="vertical-align: text-bottom;"> [**Gowthamxeno**](https://www.instagram.com/gowthamxeno/)
+<img src="https://i.imgur.com/Jr9E7c9.png" alt="Your Instagram Image" height="20" style="vertical-align: text-bottom;"> [**Gowthamxeno**](https://www.instagram.com/gowthamxeno/){:target="_blank"}
 
